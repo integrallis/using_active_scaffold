@@ -1,0 +1,23 @@
+2008-10-10 10:07:27: (log.c.75) server started 
+2008-10-10 10:07:47: (server.c.1356) [note] graceful shutdown started 
+2008-10-10 10:07:48: (server.c.1470) server stopped by UID = 501 PID = 469 
+2008-10-10 10:08:00: (log.c.75) server started 
+2008-10-10 10:11:06: (server.c.1356) [note] graceful shutdown started 
+2008-10-10 10:11:06: (server.c.1470) server stopped by UID = 501 PID = 469 
+2008-10-10 10:11:13: (log.c.75) server started 
+2008-10-10 10:11:57: (server.c.1356) [note] graceful shutdown started 
+2008-10-10 10:11:57: (server.c.1470) server stopped by UID = 501 PID = 469 
+2008-10-10 10:12:19: (log.c.75) server started 
+2008-10-10 10:14:47: (mod_fastcgi.c.2570) FastCGI-stderr: /Users/joseph/Projects/Examples/ActiveScaffoldDemo/todo/vendor/plugins/active_scaffold/frontends/default/views/destroy.rjs:3: warning: parenthesize argument(s) for future version
+ 
+2008-10-10 23:10:46: (server.c.1356) [note] graceful shutdown started 
+2008-10-10 23:10:46: (server.c.1470) server stopped by UID = 501 PID = 469 
+2008-10-10 23:18:01: (log.c.75) server started 
+2008-10-10 23:18:43: (server.c.1356) [note] graceful shutdown started 
+2008-10-10 23:18:43: (server.c.1470) server stopped by UID = 501 PID = 469 
+2008-10-10 23:18:47: (log.c.75) server started 
+2008-10-10 23:19:44: (server.c.1356) [note] graceful shutdown started 
+2008-10-10 23:19:44: (server.c.1470) server stopped by UID = 501 PID = 469 
+2008-10-11 08:24:20: (log.c.75) server started 
+2008-10-11 09:25:04: (server.c.1356) [note] graceful shutdown started 
+2008-10-11 09:25:04: (server.c.1470) server stopped by UID = 501 PID = 469 
